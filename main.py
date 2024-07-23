@@ -53,6 +53,19 @@ questions = [
         "options": ["State Highway 1", "Main Road", "Kapiti Road", "Beach Road"],
         "answer": "State Highway 1"
     }
+      },
+    {
+        "question": "Which local park is known for its scenic walking trails and birdwatching?",
+        "options": ["Queen Elizabeth Park", "Kaitoke Regional Park", "Belmont Regional Park", "Otari-Wilton's Bush"],
+        "answer": "Queen Elizabeth Park"
+     },
+    {
+        "question": "What is the name of the local library in Paraparaumu?",
+        "options": ["Paraparaumu Library", "Kapiti Coast Library", "Coastlands Library", "Waikanae Library"],
+        "answer": "Paraparaumu Library"
+    }
+    
+        
 ]
 
 class QuizApp:
